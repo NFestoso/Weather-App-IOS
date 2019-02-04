@@ -23,4 +23,4 @@ pod 'SVProgressHUD'
 * [SVProgressHUD 2.2.5](https://cocoapods.org/pods/SVProgressHUD)
 
 ## Author
-Nathan Festoso
+###Nathan Festoso
