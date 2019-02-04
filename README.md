@@ -7,15 +7,15 @@
 
 ## Getting Started
 1. Install Xcode 10 or later
-2. Install Cocoapods 'sudo gem install cocoapods'
-3. 'cd' to project folder and 'pod init'
-4. Ensure 'podfile' contains the following:
-'''
+2. Install Cocoapods `sudo gem install cocoapods`
+3. `cd` to project folder and `pod init`
+4. Ensure `podfile` contains the following:
+```
 pod 'SwiftyJSON'
 pod 'Alamofire'
 pod 'SVProgressHUD'
-'''
-5. Finally 'pod install' and 'pod update'
+```
+5. Finally `pod install` and `pod update`
 
 ## Dependencies
 * [SwiftyJSON 4.2.0](https://cocoapods.org/pods/SwiftyJSON)
