@@ -1,4 +1,5 @@
 # Clima - Basic Weather app for IOS 12
+This IOS app checks the weather for your current location or city of your choice. It is a great project for a beginner to play with, as it is demonstrates passing data between multiple pages, GPS, and the use of an open-source API [OpenWeatherMap](https://openweathermap.org/current).
 
 ## Build Environment
 * macOS Mojave Version 10.14.2
